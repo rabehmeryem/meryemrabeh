@@ -1,0 +1,18 @@
+header ,.About,.section3,.Sercice{
+    flex-direction: column;
+
+}
+
+.icons{
+    padding-top: 13px;
+}
+
+.possition{
+    position: absolute;
+}
+.possition{
+    position: absolute;
+    top: 150px;
+    right: 80px;
+}
+
