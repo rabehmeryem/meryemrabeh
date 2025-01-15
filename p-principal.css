@@ -77,14 +77,6 @@ h3{
     bottom: 100px;
     left: 100px;
 }
-@media (min-height:600px) {
-    .possition{
-        position: absolute;
-        bottom: 450px;
-        left: 100px;
-    }
-    
-}
 
 .possition h2{
     font-size: 40PX;
